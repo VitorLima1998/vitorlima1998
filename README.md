@@ -28,6 +28,8 @@
   
 </div>
 
-<p>![snake gif](https://github.com/VitorLima1998/VitorLima1998/blob/output/github-contribution-grid-snake.svg) </p>
+
+
+![snake gif](https://github.com/VitorLima1998/VitorLima1998/blob/output/github-contribution-grid-snake.svg)
 
 
